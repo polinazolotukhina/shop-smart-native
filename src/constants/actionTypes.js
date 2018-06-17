@@ -1,0 +1,9 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const SUMBIT_ITEM = 'SUMBIT_ITEM';
+export const ITEM_FETCH_SECCESS = 'ITEM_FETCH_SECCESS';
+export const ITEM_TYPE = 'ITEM_TYPE';
+export const EDIT_ITEM = 'EDIT_ITEM ';
+export const DELETE_ITEM = 'DELETE_ITEM';
+export const IMG_CHOOSE = 'IMG_CHOOSE';
